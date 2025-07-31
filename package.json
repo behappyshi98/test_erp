@@ -1,0 +1,16 @@
+{
+  "name": "erp-test",
+  "version": "1.0.0",
+  "description": "automate",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+
+  "author": "lakmali",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^14.3.2"
+  }
+}
