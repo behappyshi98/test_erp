@@ -12,3 +12,5 @@ console.log(result); // Output: 15
 //example
 
 //java script
+
+//code preview
